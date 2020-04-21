@@ -449,7 +449,16 @@ figure.effect-ravi:hover p i:empty {
     margin: 5px;
     border-radius: 30px;
     border: 2px solid #0059ff;
-    /* background: transparent; */
+}
+
+.portfolio .btn:focus {
+    box-shadow: none !important;
+}
+
+.portfolio .btn:hover {
+    border: 2px solid #0059ff !important;
+    background: #0059ff !important;
+    transition: 0.6s;
 }
 
 /* ----------------Contact---------------- */
