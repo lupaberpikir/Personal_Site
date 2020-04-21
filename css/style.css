@@ -336,8 +336,6 @@ body {
     font-size: 68.5%;
 }
 
-
-
 figure.effect-ravi {
     background: #303fa9;
     margin: 0;
@@ -508,7 +506,7 @@ figure.effect-ravi:hover p i:empty {
     height: 50px;
     margin-top: 50px;
     color: #ffffff;
-    padding-top: 10px;
+    padding-top: 15px;
 }
 
 .footer p {
